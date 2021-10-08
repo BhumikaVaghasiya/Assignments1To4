@@ -1,2 +1,2 @@
 language = "swift"
-run = "swift Assignment1/a1.swift"
+run = "swift Assignment4/arrp.swift"
